@@ -22,6 +22,9 @@
   ## Installation
   To install, first clone the repository for the GitHub link at the bottom of the README.md. First change the .env file code to match your unique credientials. Then install depedencies with "npm i". Open and log into the mysql shell with command "mysql -u root -p". Use the correct database with mysql shell command "USE ecommerce_db;". Source the database with the schema file with mysql shell command "source db/schema.sql". Then return back to node.js and run command "npm run seed" to seed all database information into tables. After repository is cloned, dependcies installed, and mysql shell commands have been run, users may run the application with node command "npm start".
   
+  [Ecommerce-Walkthrough.webm](https://github.com/JakeWilly14/E-Commerce-Back-End/assets/144076139/579a3548-fe8a-4702-a85c-4f29ea4ef0c2)
+
+  
   ## Usage
   This is a back end application with no front end. All usage must be ran through a third application such as "Insomnia". 
   
