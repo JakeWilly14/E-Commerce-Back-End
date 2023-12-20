@@ -16,7 +16,7 @@ ProductTag.init(
     product_id: {
       type: DataTypes.INTEGER,
       refrences: {
-        model: "Prodcut",
+        model: "product",
         key: "id",
       },
     },
